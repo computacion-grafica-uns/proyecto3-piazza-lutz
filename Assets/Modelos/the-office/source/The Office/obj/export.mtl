@@ -1,0 +1,689 @@
+
+newmtl plante_vase_off_001___phong37
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_d feuilles_tex_002.png
+map_Kd feuilles_tex_002.png
+
+newmtl beige_006_Wall_Entity_Material
+Kd 0.9098039269447327 0.9098039269447327 0.8784313797950745
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl blanc_001_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl bleu_001_Wall_Entity_Material
+Kd 0.9254902005195618 0.9529411792755127 0.9215686321258545
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl blanc_001_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl moquette_tex_003_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd moquette_tex_003.jpg
+
+newmtl parquet_022_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd parquet_022.jpg
+
+newmtl porte_026___mat_bois086sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_086.jpg
+
+newmtl bois_102
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_102.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001agrapheusebois
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_040.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001ecranfond
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_ecrantv.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001classeur
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd classeur.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001clavier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd claviers.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001plante_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd feuille_bleuet.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001plante_tronc
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tronc_palmier.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001plante_terre
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd terre_002.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001plante_pot
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd terre_cuite.jpg
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001souris
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd souris.jpg
+
+newmtl bureau_010___boisclair
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_027.jpg
+
+newmtl bureau_010___clavier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd clavier.jpg
+
+newmtl rangement_001___lambert2sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_080.jpg
+
+newmtl armoire_bureau_001___boisnoir
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_noir.jpg
+
+newmtl pack_002_salon_001_table_de_chevet___03___default
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron.jpg
+
+newmtl pack_002_salon_001_table_de_chevet___material__33
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_tissu2.jpg
+
+newmtl pack_002_salon_001_table_de_chevet___material__38
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_livre1.jpg
+
+newmtl pack_002_salon_001_table_de_chevet___material__39
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_livre3.jpg
+
+newmtl pack_002_salon_001_table_de_chevet___material__40
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_livre4.jpg
+
+newmtl scan_canape_001_3p_grisc___phong4
+Kd 1 1 1
+Ks 0.02000460028648376 0.02000460028648376 0.02000460028648376
+d 1
+Ns 1
+illum 2
+map_Kd tex_tissus_scan_grisc_003.jpg
+
+newmtl scan_canape_001_3p_grisc___bois_003
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 18
+illum 2
+map_Kd tex_gene_bois_003.jpg
+
+newmtl bureau_006____bureau_006_bureau_006crayon
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd crayons.jpg
+
+newmtl bureau_006____bureau_006_bureau_006metal
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+map_Kd metal_004.jpg
+
+newmtl bureau_009___calculatrice
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd calculatrice.jpg
+
+newmtl chaise_016___chaise_016:tissus
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tissus_021.jpg
+
+newmtl etageres_metal___etageres_metal_paper_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_page.jpg
+
+newmtl chaise_014____chaise_014_chaise_014_chaise_014_chaise_014_chaise_001chaise_tissus
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tissus_045.jpg
+
+newmtl chaise_014____chaise_014_chaise_014chaussures
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd cuir_002.jpg
+
+newmtl chaise_014____chaise_014_chaise_014femme
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd corps_femme.jpg
+
+newmtl chaise_014____chaise_014_chaise_014pantalon
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd velours_010.jpg
+
+newmtl chaise_014____chaise_014_chaise_014pull_gris
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tissus_022.jpg
+
+newmtl chaise_014____chaise_014_chaise_014pull_vert
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tissus_026.jpg
+
+newmtl rangement_005_bis___mat_bois096sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd bois_096.jpg
+
+newmtl rangement_005_bis___mat_livrecouverture1sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd livre_002.jpg
+
+newmtl rangement_005_bis___mat_livrecouverturesg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd livre_001.jpg
+
+newmtl rangement_005_bis___mat_livrefeuillesg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd livre_tranche_002.jpg
+
+newmtl pack_004_salon_001_etagere_001___base
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_blanc.jpg
+
+newmtl pack_004_salon_001_etagere_001___casier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_osier.jpg
+
+newmtl pack_004_salon_001_etagere_001___nopaint_livre002
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_livre2.jpg
+
+newmtl kitchen_classic_style_base_corner_000___phong8sg
+Kd 1 1 1
+Ks 0.2000000029802322 0.2000000029802322 0.2000000029802322
+d 1
+Ns 1
+illum 2
+map_Kd marble_white_000.jpg
+
+newmtl kitchen_classic_style_base_cabinet_007___lambert2sg
+Kd 1 1 1
+Ks 0.09803900122642517 0.09803900122642517 0.09803900122642517
+d 1
+Ns 1
+illum 2
+map_Kd dark_birch_000.jpg
+
+newmtl kitchen_classic_style_wall_cabinet_004___lambert5sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd oven_003.jpg
+
+newmtl kitchen_classic_style_wall_cabinet_004___phong4sg
+Kd 1 1 1
+Ks 0.07999999821186066 0.07999999821186066 0.07999999821186066
+d 1
+Ns 1
+illum 2
+map_Kd stainless__brushed_000.jpg
+
+newmtl refrigerateur_003___metal
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+map_Kd tex_alu2.jpg
+
+newmtl chaise_001___wood_chaise
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl pack_004_cuisine_001_tableau___photo
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_photo.jpg
+
+newmtl pack_004_salon_001_plante___nopaint_feuilles
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_plante.jpg
+
+newmtl pack_004_salon_001_plante___terreau
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_terreau.jpg
+
+newmtl bois_010
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd bois_010.jpg
+
+newmtl rangement_002___mat_metaldore002sg
+Kd 1 1 1
+Ks 0.1700000017881393 0.1700000017881393 0.1700000017881393
+d 1
+illum 1
+map_Kd metal_dore_002.jpg
+
+newmtl pack_005_bureau_001_bureau___clavier
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_clavier2.jpg
+
+newmtl pack_005_bureau_001_bureau___image1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_album.jpg
+
+newmtl pack_005_bureau_001_bureau___image2
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_tableau_mer.jpg
+
+newmtl pack_005_bureau_001_bureau___image3
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_tableau.jpg
+
+newmtl pack_005_bureau_001_bureau___structure
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron_002.jpg
+
+newmtl pack_005_bureau_001_bureau___vase
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_vase.jpg
+
+newmtl canape_off_004___phong283
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 0.03999999910593033 0.03999999910593033 0.03999999910593033
+d 1
+Ns 1
+illum 2
+map_Kd tissus_051.jpg
+
+newmtl chaise_017___mat_cuir004sg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd cuir_004.jpg
+
+newmtl rangement_006_bis___mat_catbooksg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd catbook.jpg
+
+newmtl rangement_006_bis___mat_dessinenfantsg
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd dessin_enfant.jpg
+
+newmtl 20210301-111810-brt
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd 20210301-111810-brt.jpg
+
+newmtl porte_026____mat_metalbasique001sg
+Kd 0.2899999916553497 0.2899999916553497 0.2899999916553497
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl porte_026___mat_vitresg
+Kd 0.9960780143737793 0.9960780143737793 0.9960780143737793
+Ks 0.5 0.5 0.5
+d 0.3019610047340393
+Ns 1.482202053070068
+illum 2
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001telephone_combine
+Kd 0 0 0
+Ks 0.1439999938011169 0.1439999938011169 0.1439999938011169
+d 1
+illum 1
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001telephone
+Kd 0.9372550249099731 0.9333329796791077 0.9137250185012817
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001ecran
+Kd 0.1333329975605011 0.137254998087883 0.1568630039691925
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001telephone_touches
+Kd 0.2470590025186539 0.2470590025186539 0.2470590025186539
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001ecrantel
+Kd 0 0 0
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl accueil_001____accueil_001_accueil_001_accueil_001tapissouris
+Kd 0.9372550249099731 0.9333329796791077 0.9137250185012817
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_010___noir
+Kd 0.2470590025186539 0.2470590025186539 0.2470590025186539
+Ks 0.1529999971389771 0.1529999971389771 0.1529999971389771
+d 1
+illum 1
+
+newmtl bureau_010___gris
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_010___vernisgris
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bureau_010___verre
+Kd 0.9372550249099731 0.9333329796791077 0.9137250185012817
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl fake_mat_255_255_255_32
+Kd 1.000000 1.000000 1.000000
+Ks 0 0 0
+d 0.125490
+illum 1
+
+newmtl fake_mat_4_4_4_255
+Kd 0.015686 0.015686 0.015686
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_214_129_31_255
+Kd 0.839216 0.505882 0.121569
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_35_36_37_255
+Kd 0.137255 0.141176 0.145098
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_198_48_53_255
+Kd 0.776471 0.188235 0.207843
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_54_54_54_255
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_154_181_55_255
+Kd 0.603922 0.709804 0.215686
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_70_102_61_255
+Kd 0.274510 0.400000 0.239216
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_71_71_71_255
+Kd 0.278431 0.278431 0.278431
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_107_107_107_255
+Kd 0.419608 0.419608 0.419608
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_142_131_107_255
+Kd 0.556863 0.513726 0.419608
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_160_168_112_255
+Kd 0.627451 0.658824 0.439216
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_144_144_144_255
+Kd 0.564706 0.564706 0.564706
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_0_0_157_255
+Kd 0.000000 0.000000 0.615686
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_209_202_188_255
+Kd 0.819608 0.792157 0.737255
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_239_238_233_255
+Kd 0.937255 0.933333 0.913725
+Ks 0 0 0
+d 1.000000
+illum 1
+
+newmtl fake_mat_254_254_254_255
+Kd 0.996078 0.996078 0.996078
+Ks 0 0 0
+d 1.000000
+illum 1
