@@ -34,6 +34,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _DstBlend: 0
+    - _Glossiness: 0.033
+    - _Metallic: 0
     - _Mode: 0
     - _ZWrite: 1
     m_Colors:
