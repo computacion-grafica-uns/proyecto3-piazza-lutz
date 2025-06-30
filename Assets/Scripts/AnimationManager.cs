@@ -3,51 +3,20 @@ using System.Collections;
 using UnityEngine;
 
 public class Animation : MonoBehaviour
-{
-    private int currentIdle = 0;
-    private string currentAnimation = "";
+{ 
+    public float floatAmplitude = 0.1f; // altura del vaivén
+    public float floatFrequency = 1f;   // velocidad del vaivén
 
-    private string[] animationNames = new string[]
-    {
-        "Male_Idle_Neutral_1",  // Idle breve
-        "fight_Preparation",    // Acción más larga
-        "Male_Idle_Neutral_2",  // Idle breve
-        "dancing_2"             // Acción más larga
-    };
-
-    private float[] animationDurations = new float[]
-    {
-        5f,     // Idle 1 (acortada)
-        7.5f,   // Preparación (original o un poco más)
-        6f,     // Idle 2 (acortada)
-        10f     // Dancing (más tiempo)
-    };
+    private Vector3 startPosition;
 
     void Start()
     {
-        StartCoroutine(PlayIdleCycle());
+        startPosition = transform.position;
     }
 
-    IEnumerator PlayIdleCycle()
+    void Update()
     {
-        while (true)
-        {
-            string anim = animationNames[currentIdle];
-            float duration = animationDurations[currentIdle];
-
-            ChangeAnimation(anim);
-            yield return new WaitForSeconds(duration);
-
-            currentIdle = (currentIdle + 1) % animationNames.Length;
-        }
-    }
-
-    private void ChangeAnimation(string animation, float crossfade = 0.04f)
-    {
-        if (currentAnimation != animation)
-        {
-            GetComponent<Animator>().CrossFade(animation, crossfade);
-            currentAnimation = animation;
-        }
+        float newY = startPosition.y + Mathf.Sin(Time.time * floatFrequency) * floatAmplitude;
+        transform.position = new Vector3(startPosition.x, newY, startPosition.z);
     }
 }

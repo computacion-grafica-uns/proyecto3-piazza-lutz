@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6918982219741007203
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6483654031566972062}
+  - component: {fileID: 3428665959776293378}
+  - component: {fileID: 4936119711209845347}
+  m_Layer: 0
+  m_Name: GUIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6483654031566972062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6918982219741007203}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3428665959776293378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6918982219741007203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a41b927a69a6f6d4caf8f6c1c47a72e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
+  reportingMenu: {fileID: 0}
+  reportMenuButton: {fileID: 0}
+  reportButton: {fileID: 0}
+  bServer: {fileID: 0}
+  bVillage: {fileID: 0}
+  bDungeon: {fileID: 0}
+  bImagen: {fileID: 0}
+  bDesplazamiento: {fileID: 0}
+  bDuplicado: {fileID: 0}
+  bElectrico: {fileID: 0}
+  bIntruso: {fileID: 0}
+  bParanormal: {fileID: 0}
+  anomaliesNumberLabel: {fileID: 0}
+  panelAnomalyRemoved: {fileID: 0}
+  anomalyRemovedLabel: {fileID: 0}
+  anomalyNotFoundLabel: {fileID: 0}
+  panelGameOver: {fileID: 0}
+  anomaliesFoundLabel: {fileID: 0}
+  panelGanaste: {fileID: 0}
+  anomaliesFoundLabel2: {fileID: 0}
+  currentRoomNameLabel: {fileID: 0}
+  imagenesNotFound:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &4936119711209845347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6918982219741007203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274b8a3b335eede44b19b205fd6b95fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeLabel: {fileID: 0}
+  totalPlayTimeInSeconds: 300
+  guiManager: {fileID: 3428665959776293378}
